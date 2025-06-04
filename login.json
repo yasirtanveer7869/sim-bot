@@ -4,5 +4,11 @@
     "password": "adminpass",
     "approved": true,
     "isAdmin": true
+  },
+  {
+    "username": "yasir",
+    "password": "1234",
+    "approved": false,
+    "isAdmin": false
   }
 ]
