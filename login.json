@@ -1,14 +1,6 @@
-[
-  {
-    "username": "admin",
-    "password": "admin123",
-    "isAdmin": true,
-    "approved": true
-  },
-  {
-    "username": "yasir",
-    "password": "1234",
-    "isAdmin": false,
-    "approved": true
-  }
-]
+{
+  "username": "yasir",
+  "password": "1234",
+  "approved": true,
+  "isAdmin": true
+}
