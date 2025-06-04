@@ -1,14 +1,4 @@
 [
-  {
-    "username": "admin",
-    "password": "1234"
-  },
-  {
-    "username": "yasir",
-    "password": "1234"
-  },
-  {
-    "username": "admin1",
-    "password": "admin"
-  }
+  { "username": "admin", "password": "adminpass", "isAdmin": true },
+  { "username": "user1", "password": "pass1", "isAdmin": false }
 ]
