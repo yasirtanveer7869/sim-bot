@@ -6,12 +6,6 @@
     "approved": true
   },
   {
-    "username": "newuser",
-    "password": "pass123",
-    "isAdmin": false,
-    "approved": false
-  },
-  {
     "username": "yasir",
     "password": "1234",
     "isAdmin": false,
