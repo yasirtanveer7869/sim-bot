@@ -1,12 +1,14 @@
 [
   {
     "username": "admin",
-    "password": "adminpass",
-    "isAdmin": true
+    "password": "admin123",
+    "isAdmin": true,
+    "approved": true
   },
   {
-    "username": "yasir",
-    "password": "1234",
-    "isAdmin": false
+    "username": "newuser",
+    "password": "pass123",
+    "isAdmin": false,
+    "approved": false
   }
 ]
