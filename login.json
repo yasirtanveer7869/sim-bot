@@ -8,7 +8,7 @@
   {
     "username": "yasir",
     "password": "1234",
-    "approved": false,
+    "approved": true,
     "admin": false
   }
 ]
