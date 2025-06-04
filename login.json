@@ -10,7 +10,7 @@
     "username": "yasir",
     "password": "1234",
     "role": "user",
-    "approved": false,
+    "approved": true,
     "registered": "2025-06-04T19:53:00.434Z"
   }
 ]
