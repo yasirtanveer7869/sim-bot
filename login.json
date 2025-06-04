@@ -9,8 +9,8 @@
   {
     "username": "admin",
     "password": "1234",
-    "role": "user",
-    "approved": false,
+    "role": "admin",
+    "approved": true,
     "registered": "2025-06-04T19:51:39.646Z"
   }
 ]
