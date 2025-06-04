@@ -3,12 +3,12 @@
     "username": "admin",
     "password": "adminpass",
     "approved": true,
-    "isAdmin": true
+    "admin": true
   },
   {
-    "username": "yasir",
-    "password": "1234",
+    "username": "user1",
+    "password": "userpass",
     "approved": true,
-    "isAdmin": false
+    "admin": false
   }
 ]
