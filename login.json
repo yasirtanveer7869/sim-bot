@@ -5,11 +5,5 @@
     "role": "admin",
     "approved": true,
     "registered": "2025-06-04T19:51:39.646Z"
-  },
-  {
-    "username": "yasir",
-    "password": "1234",
-    "approved": true,
-    "role": "user"
   }
 ]
