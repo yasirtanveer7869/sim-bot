@@ -11,5 +11,11 @@
     "password": "12345",
     "approved": true,
     "role": "user"
+  },
+  {
+    "username": "Q",
+    "password": "q",
+    "approved": false,
+    "role": "user"
   }
 ]
