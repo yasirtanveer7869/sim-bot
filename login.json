@@ -9,7 +9,7 @@
   {
     "username": "yasir",
     "password": "12345",
-    "approved": true,
+    "approved": false,
     "role": "user"
   }
 ]
