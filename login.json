@@ -1,12 +1,5 @@
 [
   {
-    "username": "yasir",
-    "password": "1234",
-    "role": "user",
-    "approved": true,
-    "registered": "2025-06-04T19:50:39.691Z"
-  },
-  {
     "username": "admin",
     "password": "1234",
     "role": "admin",
