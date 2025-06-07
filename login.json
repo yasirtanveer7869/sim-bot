@@ -17,5 +17,11 @@
     "password": "q",
     "approved": false,
     "role": "user"
+  },
+  {
+    "username": "yasirtanveer523@gmail.com",
+    "password": "123456",
+    "approved": false,
+    "role": "user"
   }
 ]
